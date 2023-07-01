@@ -4,7 +4,8 @@
   "description": "The backend that will handle blogs for my site",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
   },
   "author": "Allan Muturi Maina",
   "license": "ISC",
