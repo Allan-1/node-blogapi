@@ -1,0 +1,16 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "The backend that will handle blogs for my site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Muturi Maina",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
